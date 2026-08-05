@@ -1,4 +1,3 @@
-import React from 'react';
 import trendifyImage from "../assets/Trendify.png";
 import weatherImage from "../assets/weather.png";
 import currencyImage from "../assets/currency.png";
@@ -12,42 +11,42 @@ const projects = [
         name: "Trendify Fashion",
         technologies: "ReactJS, MySQL",
         image: trendifyImage,
-        github: "https://github.com/hardikprasath",
+        github: "https://github.com/prasathnanthakumar?tab=repositories",
     },
     {
         id: 2,
         name: "Weather App",
         technologies: "ReactJS",
         image: weatherImage,
-        github: "https://github.com/hardikprasath",
+        github: "https://github.com/prasathnanthakumar?tab=repositories",
     },
     {
         id: 3,
         name: "Currency Converter",
         technologies: "ReactJS",
         image: currencyImage,
-        github: "https://github.com/hardikprasath",
+        github: "https://github.com/prasathnanthakumar?tab=repositories",
     },
     {
         id: 4,
         name: "QRCODE Generator",
         technologies: "ReactJS",
         image: qrcodeImage,
-        github: "https://github.com/hardikprasath",
+        github: "https://github.com/prasathnanthakumar?tab=repositories",
     },
     {
         id: 5,
         name: "Password Generator",
         technologies: "ReactJS",
         image: passwordImage,
-        github: "https://github.com/hardikprasath",
+        github: "https://github.com/prasathnanthakumar?tab=repositories",
     },
     {
         id: 6,
         name: "BMI Calculator",
         technologies: "ReactJS",
         image: bmiImage,
-        github: "https://github.com/hardikprasath",
+        github: "https://github.com/prasathnanthakumar?tab=repositories",
     },
 ]
 

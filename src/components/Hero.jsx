@@ -1,4 +1,3 @@
-import React from 'react';
 import HeroImage from "../assets/heroImage.jpg";
 
 const Hero = () => {
@@ -8,8 +7,10 @@ const Hero = () => {
         className='mx-auto mb-8 w-48 h-48 rounded-full object-cover transform
         transition-transform duration-300 hover:scale-105'/>
       <h1 className='text-4xl font-bold'>
-        I'm {" "}
-        <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>Prasath N</span>
+        I&apos;m{' '}
+        <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>
+          Prasath N
+        </span>
         , Frontend Developer
       </h1>
 
@@ -20,7 +21,7 @@ const Hero = () => {
       <div className="mt-8 flex flex-col items-center space-y-4 md:flex-row md:justify-center md:space-x-4 md:space-y-0">
         <button
           className="bg-gradient-to-r from-green-400 to-blue-500 text-white block transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
-          <a href="#contact">Contact With Me</a>  
+          <a href="#contact">Contact With Me</a>
         </button>
         <button
           className="bg-gradient-to-r from-pink-500 to-yellow-500 text-white block transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">

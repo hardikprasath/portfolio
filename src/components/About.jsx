@@ -1,4 +1,3 @@
-import React from 'react';
 import AboutImage from "../assets/aboutme-image.jpg";
 
 const About = () => {
@@ -50,15 +49,15 @@ const About = () => {
                             </div>
 
                             <div className='flex items-center'>
-                                <label htmlFor="reactjs" className='w-3/12 text-xs sm:text-base'>ReactJS</label>
+                                <label htmlFor="reactjs" className='w-3/12 text-xs sm:text-base'>React.js</label>
                                 <div className='grow bg-gray-800 rounded-full h-2.5'>
-                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-9/12'>
+                                    <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-10/12'>
                                     </div>
                                 </div>
                             </div>
 
                             <div className='flex items-center'>
-                                <label htmlFor="mysql" className='w-3/12 text-xs sm:text-base'>MySQL</label>
+                                <label htmlFor="nextjs" className='w-3/12 text-xs sm:text-base'>Next.js</label>
                                 <div className='grow bg-gray-800 rounded-full h-2.5'>
                                     <div className='bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-10/12'>
                                     </div>
@@ -71,7 +70,7 @@ const About = () => {
                             <div>
                                 <h3 className='text-2xl font-bold text-transparent bg-clip-text 
                                 bg-gradient-to-r from-green-400 to-blue-500'>
-                                    0+
+                                    1+
                                 </h3>
                                 <p>Years Experience</p>
                             </div>
